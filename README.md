@@ -1,63 +1,41 @@
-<h2> Hi, I'm Samuel Berto! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+## Olá 👋
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+- 🖥️ Focado em desenvolvimento Full Stack;
+- 🌱 Atualmente cursando Engenharia de Software;
+- 📚 Estudando Frontend, Backend, Python e Banco de Dados;
+- 🚀 Desenvolvendo projetos para evoluir minhas habilidades na programação;
+- 🔎 Interessado em tecnologia e desenvolvimento de software;
 
- Estudante de Engenharia de Software • Desenvolvedor Full Stack 
+<hr>
 
- Atualmente focado em evoluir minhas habilidades como Desenvolvedor Full Stack.
-
-📚 Estudando:
-- Frontend
-- Backend
-- Banco de Dados & SQL
-- Python
-- Git & GitHub
-
----
-
-## 💻 Experiência prática
-
-Desenvolvendo projetos para aprimorar minhas habilidades na programação.
-
-### Projetos e práticas:
-- Sistemas CRUD
-- Estruturação de páginas com HTML
-- Estilização com CSS
-- Organização de interfaces web
-- Manipulação de dados
-- Versionamento com Git & GitHub
-
----
-
-## 🌐 Contato
-
-<p align="left">  
-  <a href="https://github.com/SamuelBerto" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-SamuelBerto-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF">
-  </a>
+<div align="center" style="display: inline_block">
+  <img align="center" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   
-  <a href="https://www.instagram.com/samutzinn/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@samutzinn-0D1117?style=for-the-badge&logo=instagram&logoColor=00F7FF">
-  </a>
+  <img align="center" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-  <a href="mailto:samuztberto@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-samuztberto%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=00F7FF">
-  </a>
+  <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   
-</p>
+  <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  
+  <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  
+  <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+</div>
 
----
-
+<hr>
 
 <div align="center">
-
-### “Construir. Quebrar. Aprender. Repetir.”
-
+<a href="https://github.com/SamuelBerto" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.instagram.com/samutzinn/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:samuztberto@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 
+<hr>
 
+<div align="center">
 
+### “Grandes sistemas começam com pequenas linhas de código.”
 
-
+</div>
 
